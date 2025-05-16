@@ -12,21 +12,21 @@
 #editor-title, #preview-title{
   text-align: center;
   border: 2px solid black;
-  background-color: turquoise;
+  background-color: #EEE685;
   margin-bottom: 0;
 }
 #editor{
   height: fit-content;
-  min-height: 74vh;
-  max-height: 74vh;
+  min-height: 73vh;
+  max-height: 73vh;
   background-color: aliceblue;
   border: 2px solid black;
 }
 #preview{
   border: 2px solid black;
   height: fit-content;
-  max-height: 74vh;
-  min-height: 74vh;
+  max-height: 73vh;
+  min-height: 73vh;
   word-wrap: break-word;
   background-color: aliceblue;
   overflow: scroll;
