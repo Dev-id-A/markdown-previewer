@@ -2,7 +2,7 @@ html,body,#root{
     @media only screen and (min-width: 768) {
         overflow: hidden;
     };
-    background-color: brown;
+    background-color: #8B3A3A;
     
 }
 html{
