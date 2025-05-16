@@ -17,15 +17,16 @@
 }
 #editor{
   height: fit-content;
-  min-height: 80vh;
+  min-height: 75vh;
+  max-height: 75vh;
   background-color: aliceblue;
   border: 2px solid black;
 }
 #preview{
   border: 2px solid black;
   height: fit-content;
-  max-height: 70vh;
-  min-height: 70vh;
+  max-height: 75vh;
+  min-height: 75vh;
   word-wrap: break-word;
   background-color: aliceblue;
   overflow: scroll;
